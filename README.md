@@ -10,9 +10,9 @@ This project is an automated test suite for the (https://automationexercise.com)
 - HTML report generation.
 
 ## How to run locally:
-npm init playwright@latest
-npx playwright test
-npx playwright show-report
+- npm init playwright@latest
+- npx playwright test
+- npx playwright show-report
 
 ## Output Screenshot:
 ![Screenshot 2025-04-27 205511](https://github.com/user-attachments/assets/dbae8f77-66ec-441a-a253-43b5cdd98942)
